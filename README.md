@@ -1,4 +1,4 @@
-🚲 Ridemap
+**🚲 Ridemap**
 
 O Ridemap é um projeto pessoal desenvolvido como uma aplicação web, com objetivos educacionais, informativos e experimentais.
 
@@ -15,7 +15,7 @@ Este projeto NÃO é open-source de uso livre. O código, design e conteúdo pos
 
 🔐 Política de Privacidade: disponível junto aos Termos
 
-👤 Autor
+**👤 Autor**
 
 Desenvolvido por Henrique Dev
 
